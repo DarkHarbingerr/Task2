@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Films Catalog</string>
+    <string name="btn_next">Следующая</string>
+    <string name="btn_prev">Предыдущая</string>
+</resources>
